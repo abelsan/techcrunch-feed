@@ -1,0 +1,48 @@
+Article Title: Binit is bringing AI to trash
+Article Content: Early attempts at making dedicated hardware to house artificial intelligence smarts have been criticized as, well, a bit rubbish. But here’s an AI gadget-in-the-making that’s all about rubbish, literally: Finnish startup Binit is applying large language models’ (LLMs) image processing capabilities to tracking household trash.
+
+AI for sorting the stuff we throw away to boost recycling efficiency at the municipal or commercial level has garnered attention from entrepreneurs for a while now (see startups like Greyparrot, TrashBot, Glacier). But Binit founder, Borut Grgic, reckons household trash tracking is untapped territory. 
+
+“We’re producing the first household waste tracker,” he tells TechCrunch, likening the forthcoming AI gadgetry to a sleep tracker but for your trash tossing habits. “It’s a camera vision technology that is backed by a neural network. So we’re tapping the LLMs for recognition of regular household waste objects.”
+
+The early-stage startup, which was founded during the pandemic and has pulled in almost $3 million in funding from an angel investor, is building AI hardware that’s designed to live (and look cool) in the kitchen — mounted to cabinet or wall near where bin-related action happens. The battery-powered gadget has on board cameras and other sensors so it can wake up when someone is nearby, letting them scan items before they’re put in the trash.
+
+Grgic says they’re relying on integrating with commercial LLMs — principally OpenAI’s GPT — to do image recognition. Binit then tracks what the household is throwing away — providing analytics, feedback and gamification via an app, such as a weekly rubbish score, all aimed at encouraging users to reduce how much they toss out. 
+
+The team originally attempted to train their own AI model to do trash recognition but the accuracy was low (circa 40%). So they latched on to the idea of using OpenAI’s image recognition capabilities. Grgic claims they’re getting trash recognition that’s almost 98% accurate after integrating the LLM.
+
+Binit’s founder says he has “no idea” why it works so well. It’s not clear whether lots of images of trash were in OpenAI’s training data or whether it’s just able to recognize lots of stuff because of the sheer volume of data it’s been trained in. “It’s incredible accuracy,” he claims, suggesting the high performance they’ve achieved in testing with OpenAI’s model could be down to the items scanned being “common objects.”
+
+“It’s even able to tell, with relative accuracy, whether or not a coffee cup has a lining, because it recognises the brand,” he goes on, adding: “So basically, what we have the user do is pass the object in front of the camera. So it forces them to stabilise it in front of the camera for a little bit. In that moment the camera is capturing the image from all angles.”
+
+Data on trash scanned by users gets uploaded to the cloud where Binit is able to analyze it and generate feedback for users. Basic analytics will be free but it’s intending to introduce premium features via subscription.
+
+The startup is also positioning itself to become a data provider on the stuff people are throwing away — which could be valuable intel for entities like the packaging entity, assuming it can scale usage. 
+
+Still, one obvious criticism is do people really need a high-tech gadget to tell them they’re throwing away too much plastic? Don’t we all know what we’re consuming — and that we need to be trying not to generate so much waste?
+
+“It’s habits,” he argues. “I think we are aware of it — but we don’t necessarily act on it.”
+
+“We also know that it’s probably good to sleep, but then I put a sleep tracker on and I sleep a lot more, even though it didn’t teach me anything that I didn’t already know.”
+
+During tests in the U.S., Binit also says it saw a reduction of around 40% in mixed bin waste as users engaged with the trash transparency the product provides. So it reckons its transparency and gamification approach can help people transform ingrained habits.
+
+Binit wants the app to be a place where users get both analytics and information to help them shrink how much they throw away. For the latter Grgic says they also plan to tap LLMs for suggestions — factoring in the user’s location to personalize the recommendations.
+
+“The way that it works is — let’s take packaging, for example — so every piece of packaging the user scans there’s a little card formed in your app and on that card it says this is what you’ve thrown away [e.g., a plastic bottle] … and in your area these are alternatives that you could consider to reduce your plastic intake,” he explains.
+
+He also sees scope for partnerships, such as with food waste reduction influencers. 
+
+Grgic argues another novelty of the product is that it’s “anti-unhinged consumption,” as he puts it. The startup is aligning with growing awareness and action of sustainability. A sense that our throwaway culture of single-use consumption needs to be jettisoned, and replaced with more mindful consumption, reuse and recycling, to safeguard the environment for future generations.
+
+“I feel like we’re at the cusp of [something],” he suggests. “I think people are starting to ask themselves the questions: Is it really necessary to throw everything away? Or can we start thinking about repairing [and reusing]?”
+
+Couldn’t Binit’s use case just be a smartphone app, though? Grgic argues that this depends. He says some households are happy to use a smartphone in the kitchen when they might be getting their hands dirty during meal prep, for instance, but others see value in having a dedicated hands-free trash scanner.
+
+It’s worth noting they also plan to offer the scanning feature through their app for free so they are going to offer both options.
+
+So far the startup has been piloting its AI trash scanner in five cities across the U.S. (NYC; Austin, Texas; San Francisco; Oakland and Miami) and four in Europe (Paris, Helsinki, Lisbon and Ljubljana, in Slovenia, where Grgic is originally from).
+
+He says they’re working toward a commercial launch this fall — likely in the U.S. The price point they’re targeting for the AI hardware is around $199, which he describes as the “sweet spot” for smart home devices.
+
+This report was updated with a correction: Ljubljana is in Slovenia, not Slovakia. We regret the error.

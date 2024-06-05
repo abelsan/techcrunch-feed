@@ -1,0 +1,24 @@
+Article Title: WndrCo officially gets into venture capital with fresh $460M across two funds
+Article Content: WndrCo, the holding company and technology investment firm started by founding partners Sujay Jaswa and Jeffrey Katzenberg, raised its first venture capital fund, closing on over $460 million in capital commitments. 
+
+Katzenberg is well-known for being the former chairman of Walt Disney Studios and co-founder of DreamWorks SKG. Jaswa was a principal at New Enterprise Associates before joining Dropbox as one of the company’s early employees.
+
+We profiled the eight-year-old company in 2022 after we noticed how many times WndrCo’s name was associated with venture capital deals in a short period of time. “The common thread across everything is that we’re really looking for founders that we think have a chance of cracking an important problem,” Jaswa told TechCrunch at the time.
+
+That vision hasn’t changed. Katzenberg and Jaswa, along with general partners ChenLi Wang, Anthony Saleh and Jeffrey Nykun, manage $1.3 billion in assets today through their Build, Venture and Seed strategies.
+
+With the Build strategy, WndrCo often acquires controlling stakes in underappreciated tech companies to turn them into category leaders, for example, digital security companies Aura and Pango. The Venture strategy targets founders reshaping industries, with a strong preference to be the lead institutional investor. WndrCo’s venture portfolio includes 1Password, Airtable, Databricks, Deel and Figma. Its Seed fund invests early in the next generation of entrepreneurs and has made investments in companies, including Yassir, Material Security, Pilot, Quince, Socket and Twelve Labs.
+
+Katzenberg and Jaswa started fundraising for the new funds a year-and-a-half ago, and Jaswa said they “timed it perfectly” in terms of raising between the time when there was a major recession and “a period where people felt like venture had gotten too frothy.”
+
+“It was a unique moment to raise our first classic venture funds,” he said. “We have been lucky to be involved with some of the best entrepreneurs and companies, but at the end of the day, when you’re starting a new set of relationships, it takes time.” 
+
+The new capital is spread across new Seed and Venture funds that target startups innovating in the areas of the future of work, consumer technology, cybersecurity and developer infrastructure.
+
+WndrCo makes 15 deals a year in seed investing with an average check size of $500,000, Katzenberg said. The Seed fund will do “more venture capital investing than what we had done prior,” and will create one or two companies a year, he said.
+
+From the new funds, WndrCo has invested in three companies, including Writer, a generative AI platform for businesses, and Alembic, which helps chief marketing officers understand their return on investment when it comes to brand spend. One of its Build companies was created 10 months ago and is still in stealth mode.
+
+The firm is looking for new technology that will allow society to solve a problem that had not been solved before. Then if it can find entrepreneurs who are building it, WndrCo gives them money, Jaswa said. This most recently includes artificial intelligence.
+
+“Over the past five months, we have seen a pretty significant acceleration in the quality and quantity of opportunities,” Katzenberg added. “That was quite different from 2023. These things usually happen and accelerate around platform changes or platform introduction, and AI for us actually seems to be that next great, transformative moment around tech.”

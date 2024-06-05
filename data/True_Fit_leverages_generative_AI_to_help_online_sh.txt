@@ -1,0 +1,30 @@
+Article Title: True Fit leverages generative AI to help online shoppers find clothes that fit
+Article Content: True Fit, the AI-powered size-and-fit personalization tool, has offered its size recommendation solution to thousands of retailers for nearly 20 years. Now, the company is venturing into the generative AI space with “Fit Hub,” a new tool that aims to improve the way online shoppers find clothing that fits their body type.
+
+Sizing issues continue to be one of the main sources of friction among online consumers, with the average return rate for e-commerce at 17.6%. Many customers try to avoid returns by carefully examining product detail pages for size charts, descriptions, and customer reviews to gauge how the clothing will fit. With its latest tool, TrueFit focuses on helping consumers well-fitting clothes on the first try with minimal returns.
+
+Fit Hub aims to be a less time-consuming solution as it consolidates all the information from product pages into one place to help shoppers quickly learn about an item and feel more confident that they’re buying the right size. The AI analyzes the size chart, description, customer reviews, and sales and returns data. It can then determine if a size 16 shoppers should size down or if clothing is true to size for people who wear size 4. 
+
+For further personalization, users can create a True Fit account and share specific styles and brands they enjoy, among other preferences. 
+
+Additionally, there’s a “Fit Tips” tool that provides fitting advice, like telling customers that a certain item fits best on people with short torsos. 
+
+Jessica Arredondo Murphy, True Fit co-founder and chief operating officer, told TechCrunch, “We’ve gotten to the point where it’s almost information overload when it comes to size and fit. On any given website, you could have up to five different forms of size and fit information… We have one centralized place where we can synthesize that guidance from across the product detail page, combine new insights with traditional advice, and then simplify size and fit understanding for all types of shoppers.”
+
+Fit Hub leverages several generative AI models — ChatGPT 4o, GPT Vision, Gemini 1.5 Pro Vision models, and various open-source models — to understand vision and text in real time. Copilot is used in a limited capacity. 
+
+Arredondo Murphy explained that generative AI enables the company to process data at faster speeds and greater volumes than True Fit’s previous AI tech could handle. 
+
+The feature also utilizes True Fit’s cross-market proprietary data set, “Fashion Genome,” which combines data from 82 million shoppers and nearly 30,000 brands, such as Pacsun, Macy’s, Dicks, LL Bean, and Lululemon, among others. 
+
+Fit Hub is currently in beta testing with around a dozen brands and is expected to become available to all True Fit’s merchant partners next month. 
+
+While Amazon provides similar personalized recommendations with its AI-powered “Fit Insights” feature, Fit Hub appears to go more in-depth. 
+
+True Fit intends to introduce additional filters to the hub later this year. For instance, “Shopper Insights” collects data from past shoppers and offers insights such as whether a product is favored by a specific age group, height, and even bra size (depending on the product). It’ll also feature a side-by-side diagram, allowing shoppers to visually compare the differences between petite, plus-size, and regular versions of the same product.
+
+Another upcoming tool is called “Brand Sizing,” which will help frequent customers compare sizing to previous purchases from their favorite brand. For instance, the AI will cross-reference 200 past purchases of a shirt to 500 other tops from the same brand to determine if it’s the “usual sizing” or if the shopper should size up or down. 
+
+On the long-term roadmap, True Fit is also building a generative AI chatbot to help shoppers discover products and ask specific questions, such as, “What jeans fit better for people with muscular thighs?” The feature is still in the early stages of development and is limited to 1 million products so far.
+
+True Fit recently collaborated with Shopify to bring its services to businesses and merchants of all sizes. The company previously only catered to large brands, so this means more companies will have access to its no-code size-and-fit solution. 

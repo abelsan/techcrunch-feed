@@ -1,0 +1,20 @@
+Article Title: Travel app Sēkr can plan your next road trip with its new AI tool
+Article Content: Sēkr, a startup that offers a mobile app for outdoor enthusiasts and campers, is launching a new AI tool for planning road trips. The new tool, called Copilot, is available on the startup’s updated website and app, which is used by more than 100,000 users. 
+
+The company was founded in 2016 with the goal of helping the “van life” community find campsites based on their needs, such as shower facilities, restrooms, overnight van parking or free Wi-Fi. The app also allows users to connect with fellow travelers who want to participate in outdoor activities together, like rock climbing or skiing.
+
+After being acquired by van company Peace Vans in December 2023, the startup is under new leadership. Sēkr and Peace Vans CEO Harley Sitner was a user of the app for seven years but had noticed last year that the app had gone dormant. He learned that the founders of the startup were going to unwind the app due to the sudden shift in global fundraising climates in late 2022, despite having a strong user base. Sitner, who was a former product manager at Microsoft, was approached to acquire Sēkr in November 2023.
+
+Fast-forward eight months, the startup is now looking to help people better plan the journeys to their destinations, while also updating the app with enhanced features that stay true to Sēkr’s original mission.
+
+With the new AI-powered road trip planning tool, Sēkr is combining natural language processing with proprietary data from its community of users who have left reviews and ratings about specific places. Copilot also looks at publicly available data when creating road trip itineraries. The tool leverages OpenAI’s GPT, Meta’s Llama and others.
+
+“For the millions of people traveling by van, car, or RV this summer, Sēkr Copilot will help you bypass hours of trip planning to quickly deliver a better itinerary,” Sitner said in a statement. “AI isn’t going to create a panoramic sunset, but it will help you overcome the notorious planner’s block, set you up for serendipitous moments, and connect you to an authentic road trip experience co-created by Sēkr’s incredible community of dedicated users.” 
+
+Copilot can be accessed via the new “Trip Planning” tab on the startup’s website or app. Once users open the tool, they will be asked to answer a series of prompts about where they’re going and what they’re looking for. The tool will then provide a travel itinerary that has editable trip legs that include camping destinations, stops for food and outdoor activities. 
+
+The idea behind Copilot is to help travelers discover unique places that they may not have known about otherwise. For instance, the tool may encourage travelers to check out a taco truck parked by the side of a dusty road in Baja that users have said offers better food than a five-star reviewed Denny’s outside of Los Angeles. Or, the tool may encourage users to explore secluded, unmarked areas in BLM (Bureau of Land Management) land that overlooks scenic views. 
+
+Sēkr is available on iOS and Android. The app’s basic features are free to use. Users can unlock premium features like, offline maps, event discount codes, and unlimited messaging and searching for $4.99 per month.
+
+The startup previously received $2.25 million in seed funding led by Storyteller Overland, with participation from Backstage Capital, Techstars, Ad Astra Ventures, Crescent Ridge Ventures and Andy Ballester, the co-founder of GoFundMe.

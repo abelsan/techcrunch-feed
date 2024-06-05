@@ -1,0 +1,10 @@
+Article Title: What to expect from Apple’s AI-powered iOS 18 at WWDC
+Article Content: Apple’s Worldwide Developers Conference next week promises to be a pivotal moment in the iPhone maker’s history. At WWDC, the Cupertino tech giant will showcase how it’s chosen to integrate AI technology into its devices and software, including through a historic partnership with OpenAI. As the big event nears, all sorts of leaks have emerged about what iOS 18 and its rumored AI-powered apps and features have in store.
+
+Among the changes, Apple is said to be powering some of its new AI features with its Ajax LLM. Other reports indicate that Apple plans to process data from AI in a way that even employees won’t be able to access, which would help Apple continue to deliver on its promise of data privacy for its users.
+
+Below, we’ll take a look at how Apple is said to be adding AI to its apps and services in the next big update for the iPhone, alongside other improvements and changes coming to iOS 18. 
+
+Other apps with planned updates include Freeform, Xcode and Apple’s productivity apps, like Keynote and Pages, which may get GenAI features.
+
+We’re launching an AI newsletter! Sign up here to start receiving it in your inboxes on June 5.

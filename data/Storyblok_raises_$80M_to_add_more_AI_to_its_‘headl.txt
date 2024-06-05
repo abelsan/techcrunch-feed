@@ -1,0 +1,30 @@
+Article Title: Storyblok raises $80M to add more AI to its ‘headless’ CMS aimed at non-technical people
+Article Content: If content is king, then the focus today is on how the king is expanding the empire: Print and traditional media first got augmented by websites, and now websites are being augmented by a fast-expanding landscape of apps, social media platforms and content created by artificial intelligence. Now a company that’s building for that content horizon has raised a big round of funding to expand its business. 
+
+Storyblok, a startup out of Linz, Austria, that provides a content management system (CMS) for organizations built around the “headless” concept, has closed a Series C round of $80 million. The startup targets the middle ground between platforms that offer rigid templates, and those that facilitate a full-control approach that might involve building and maintaining different components of a content and front-end tech stack. 
+
+The startup plans to use the funds to continue expanding further into Europe and the U.S. and to bring new automation and AI tooling into the mix. 
+
+Some of that is already getting a boost: Alongside the funding announcement, Storyblok is launching the beta of Ideation Room. The company describes this as a “collaborative space within Storyblok where [users] can develop new ideas together at the beginning of the creation process, using AI to help improve content and bring it to life.” 
+
+Dominik Angerer, the CEO and founder of Storyblok, said that the company was working with OpenAI on that AI tooling, so expect to see some generative AI worked not only into making the platform more intuitive to use, but also potentially to populate the content on the platform. 
+
+The company now has a staff of 240, and it will be ramping up hiring.
+
+Brighton Park Capital, a new investor in the company, is leading the Series C. This is a substantial raise for the startup, which last raised a $47 million Series B in 2022. As with that last round, it’s not disclosing its valuation, but it says its users have more than doubled since that last round to 200,000 from 74,000 in 2022, and we understand that this is definitely an “up round.”
+
+Storyblok has raised $138 million to date.
+
+Angerer told TechCrunch that he roughly expects the company to be profitable by the end of 2025. 
+
+“It’s a massive market,” he said, estimating that the bigger opportunity for CMS players — which include others like Contentful, WordPress and Commercetools (focused on e-commerce) — is around $20 billion to $25 billion annually. “People used to think that content was valuable for B2C brands that were connected with their consumers, but increasingly, it’s core to the strategy for almost any company in any industry,” he said. “The mass market is still controlled by legacy companies, with modern headless players like us taking just a percentage.”
+
+Storyblok’s big selling point is that its services are used not just by the developers — typically the end customers of CMS services — but also by non-technical workers. Its customers include Adidas, T-Mobile, Renault, and the alt-milk brand Oatly. Altogether, its platform hosts some 250,000 active projects.
+
+Creators have long grappled with the challenges of building an audience, and thus a business, off the back of content. These days, that set of challenges has burgeoned into something of an existential crisis thanks to the rise of AI. There has always been something sacrosanct about what a human brings to the equation when it comes to creativity, but with the rise and increasing sophistication of generative AI, is the human really going to be needed tomorrow?
+
+Storyblok has so far been focused on putting the human creator front and center. But in making its tools easier to use with AI, the big question will be what role those humans play in the longer run.
+
+For now, it’s a big enough proposition to back companies that are using AI for more immediate help, said Kevin Magan of Brighton Park. “Almost all of our companies have AI as an important part of their product today or product roadmap,” he said. “We’re not focusing a huge amount of time on a lot of the foundational models and things like that, but we do feel strongly that AI is going to be a component of most application-level software.”
+
+In addition to Brighton Park, previous backers HV Capital, Mubadala Capital, 3VC, and Firstminute Capital also participated in the Series C round.

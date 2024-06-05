@@ -1,0 +1,20 @@
+Article Title: Sword Health raises $130M and its valuation soars to $3B
+Article Content: Sword Health, an AI-powered virtual physical therapy startup, has raised $30 million and let employees sell $100 million worth of equity to new and existing investors, including Khosla Ventures. The round brings the nine-year-old company’s valuation to $3 billion, a 50% increase from the $2 billion value it garnered in its Series D in November 2021.
+
+The company initially set out to just do the $100 million secondary round that would allow employees and early investors to sell shares, Virgílio Bento, Sword’s CEO and founder, told TechCrunch. But when he saw that the secondary round was oversubscribed, the company also decided to raise a $30 million primary round and update its valuation.
+
+“It’s a very intense environment: long hours and high expectations. We wanted to reward our team, especially our early employees,” he said.
+
+Sword didn’t need the influx of capital because it’s forecasted to be profitable by the end of the year, Bento said. However, he liked the signal an updated valuation would send during the tough fundraising conditions of 2024.  
+
+“No one really believes in the valuations of 2021 given how irrational the market was,” Bento said. While most employees know that the company is doing well, Sword’s clients, who include employers and health plans of Fortune 500 companies, had no clear way of gauging the company’s progress. “We wanted to showcase our growth, and valuation is one indicator of that.”
+
+The company won’t use the $30 million for operations. “It’s going to be in the bank, generating nice interest,” Bento said.
+
+The latest primary round brings Sword’s total funding to $340 million. In addition to Khosla Ventures, the company’s investors include General Catalyst, BOND, Founders Fund, and others. 
+
+Proving that Sword is doing so well is likely important to the company because it competes directly with another virtual therapy platform, Hinge Health, which was last valued at $6.2 billion in October 2021. In April, Hinge laid off 10% of its workforce as a step in its plans to reach profitability in preparation for a potential IPO, TechCrunch reported.
+
+Bento also has a goal of an IPO for Sword. If the company grows as expected and the macroeconomic environment is favorable, it could potentially list in 2025, but the company is not committed to a specific timeline, Bento said.  
+
+In the meantime, the company is beefing up its AI. It is introducing a human-like voice for its genAI, named Phoenix, to its musculoskeletal therapy and women’s pelvic health care therapy. Phoenix powers all patient interactions and Sword’s virtual therapists. “It’s the last piece of the puzzle that makes Phoenix much more engaging,” Bento said.

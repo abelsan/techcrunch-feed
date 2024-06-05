@@ -1,0 +1,12 @@
+Article Title: Scale AI founder Alexandr Wang is coming to Disrupt 2024
+Article Content: The early victors in the AI gold rush are selling the picks and shovels needed to develop and apply artificial intelligence. Just take a look at data-labeling startup Scale AI — and its long and diverse list of customers and investors.
+
+The San Francisco-based startup, founded in 2016, developed software that labels image, text, voice and video data used by companies to train machine learning models. Scale AI got its start supplying companies like Nuro and Zoox with the labeled data needed to train machine learning models for autonomous vehicles. The business soon expanded into government, e-commerce, enterprise automation and robotics companies. Today, Scale AI’s customer list includes GM, OpenAI, Microsoft and the U.S. Department of Defense. 
+
+It’s attracted investors too. The company recently raised $1 billion in a Series F round with a $13.8 billion valuation from early backer Accel as well as institutional and corporate investors such as Amazon and Meta.
+
+The upshot: Scale AI, and its CEO and co-founder Alexandr Wang, sit at the center of the AI boom. We’re excited to announce that Wang, who started Scale AI as a student at MIT at the age of 19, is coming to Disrupt 2024 on October 28-30 in San Francisco.
+
+During our fireside interview with Wang, we’ll move past the hype and dig into the business of AI, where the industry is headed and how Scale will continue to evolve. Plus, lots more! 
+
+Don’t miss Disrupt 2024, where hundreds of investors, founders, tech pioneers, builders and policy makers come together to learn and connect. Buy your tickets today. 

@@ -1,0 +1,20 @@
+Article Title: Raspberry Pi partners with Hailo for its AI extension kit
+Article Content: The latest version of the Raspberry Pi, the small-but-mighty computer that has become quite popular with tech hobbyists and industrial companies, can now also be an AI computer. The company on Tuesday released the AI Kit, which is a $70 extension kit with a neural network inference accelerator that can be used for local inferencing, for the Raspberry Pi 5.
+
+For this new extension module, Raspberry Pi is taking advantage of its HAT+ extension card. HAT stands for “Hardware Attached on Top”, a cute acronym that the company has been using for extension cards that you attach to a regular Raspberry Pi.
+
+The HAT+ extension card adds an M.2 slot, which is a standard extension slot commonly used for PC components. For our readers who care about the details: This slot is connected to the Raspberry Pi through a single-lane PCIe 3.0 interface running at 8Gbps.
+
+The company has partnered for the kit with Hailo, an AI chip startup that recently raised $120 million and wants to challenge Nvidia. Hailo specializes in chips that are designed to run AI workloads on edge devices, such as cars, smart cameras, robotics, and now, Raspberry Pi devices.
+
+The accelerator module that Raspberry Pi is using for the AI Kit is the Hailo-8L. It’s an entry-level module in an M.2 form factor, which means that it can easily be plugged in to the HAT+.
+
+Once everything is installed, you get a Raspberry Pi 5 capable of inferencing at 13 tera-operations per second (TOPS). It’s not much compared to an Nvidia GPU, but it’s cost-effective and works with the Raspberry Pi’s stock 27W power supply.
+
+On the software front, the latest version of the Raspberry Pi OS automatically detects the Hailo module so it can be used immediately by the OS and applications that take advantage of it.
+
+Raspberry Pi has also updated its suite of camera applications so that they support neural network inferencing as part of the camera pipeline. For instance, it can be used for object detection (“this is a car”), semantic segmentation (“these three things are moving vehicles”), instance segmentation (“these three moving vehicles are a truck, a red car and a blue car”), pose estimation, and facial landmarking.
+
+Those are just examples of what you can do with a Raspberry Pi equipped with the AI kit and a first-party or third-party camera. But the Hailo chip can also be used for non-camera use cases.
+
+It’s going to be interesting to see the Raspberry Pi community come up with new uses for this kit. This AI extension kit is a tool and now, it’s up to Raspberry Pi’s customers to figure out what they want to do with it.

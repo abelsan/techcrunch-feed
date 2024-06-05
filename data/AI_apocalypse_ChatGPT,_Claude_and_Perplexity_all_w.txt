@@ -1,0 +1,30 @@
+Article Title: AI apocalypse? ChatGPT, Claude and Perplexity all went down at the same time
+Article Content: After a multi-hour outage that took place in the early hours of the morning, OpenAI’s ChatGPT chatbot went down again — but this time, it wasn’t the only AI provider affected. On Tuesday morning, both Anthropic’s Claude and Perplexity began seeing issues, too, but these were more quickly resolved.
+
+Google’s Gemini appears to be operating at present, though it may have also briefly gone offline, according to some user reports. 
+
+It’s unusual for three major AI providers to all be down at the same time, which could signal a broader infrastructure issue or internet-scale problem, such as those that affect multiple social media sites simultaneously, for example. It’s also possible that Claude and Perplexity’s issues were not due to bugs or other issues, but from receiving too much traffic in a short period of time due to ChatGPT’s outage. 
+
+On ChatGPT’s landing page, the ability to message the AI chatbot was not working during its outage. The issue began around 7:33 AM PT and resolved around 10:17 AM PT — another multi-hour outage. 
+
+At one point during the outage, ChatGPT’s website was updated to indicate the service was at capacity — in pirate speak, no less — and offered to notify users when it was back online. 
+
+Claude’s website had been displaying an error with a message that reads: “An error occurred in the Server Components render. The specific message is omitted in production builds to avoid leaking sensitive details. A digest property is included on this error instance which may provide additional details about the nature of the error.”
+
+The site then advises to “try again.”
+
+Claude started working again sometime after 12:10 p.m. ET.
+
+Perplexity’s site was also serving the over-capacity message that would appear when the service receives too many requests. It said “We’ll be right back” and “We’re getting a lot of questions right now and have reached our capacity. Please come back soon.”
+
+The site resumed functioning around the time that Claude’s outage was resolved but has been intermittently up and down since.
+
+Of note, ChatGPT had only recently resolved a lengthy outage that affected its service overnight. The chatbot had been down for users around the world during the early morning hours (Pacific Time), leading to complaints across X and Threads. The company’s status page signaled a bug was being fixed and the issue was being monitored around 12:21 a.m. PT.
+
+As of 7:33 a.m. PT, the status page has been updated to say that ChatGPT is once again unavailable for some users and that OpenAI is “currently investigating this issue.” The chatbot was still down as of 12:28 p.m. ET, per its status page, which has flagged it as a “major outage.” The issues were fixed several hours later. 
+
+The AI providers did not immediately return requests for comment or more information on the outages, but we’ll update as more information becomes available.
+
+The AI outages are not the only online disruptions occurring at present. Forbes is also reporting a zero-day spam attack taking place on TikTok, which is currently affecting select celebrity and brand accounts, including Paris Hilton and CNN.
+
+Post updated after publication on June 4, 2024, at 12:20 p.m, 1:35 p.m. ET as Claude and Perplexity came back online, followed by ChatGPT.

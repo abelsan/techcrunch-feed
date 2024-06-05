@@ -1,0 +1,22 @@
+Article Title: Swiss startup Neural Concept raises $27M to cut EV design time to 18 months
+Article Content: As pressure from Chinese competitors intensifies and the EV market stalls, major U.S. and European auto manufacturers are racing to cut the cost of producing electric vehicles so they can get to the price tags and profit margins of internal combustion engine (ICE) cars. But to do that, they must find ways to make the design process faster and more efficient.
+
+Neural Concept, a company spun out from the Swiss Federal Institute of Technology in Lausanne (EPFL), has raised $27 million in a Series B funding round to apply AI to solve that exact pain point. 
+
+In simple terms, Neural Concept lets designers model how components will perform before they can be manufactured — it’s no use just having the design of a component; you need to know how it’s going to behave as part of an engine, for instance. That’s where this platform comes in. The application could be useful across a large range of industries, such as automotive, micro-electronics, aerospace and energy. 
+
+The company says it uses deep learning in a 3D environment and combines data analysis with machine learning to speed up development times by up to 75% and product simulation by as much as 10 times.
+
+Pierre Baqué, co-founder and CEO at Neural Concept, said the platform rapidly accelerates what is currently a manual process. “Let’s say I have a design for a battery, and I would like it to perform better to increase its thermal efficiency. Our software will suggest some improvements on how to make it more efficient, because the software is aware of the property of the materials,” he explained.
+
+“Prior to our software you have, typically, a CAD designer drawing 3D designs who sends it to someone to do very complex numerical simulations. That can take a very long time to run or might require physical tests. But now our platform can guide the designer directly.”
+
+Baqué thinks his platform could reduce the development time of an EV from four years to 18 months.
+
+The startup’s product is currently being used by Airbus, Bosch, General Electric, Mubea, Subaru, and four Formula 1 racing teams. The company is working with Nvidia to optimize the graphics card maker’s GPUs and CUDA software.
+
+Neural Concept is going up against much larger “component simulation” giants such as Ansys, which has been attempting to move into this “deep learning” space with its own platforms.  
+
+The Series B was led by Forestay Capital, with new investor D.E. Shaw group, alongside existing participating investors Alven, Constantia New Business, HTGF and Aster Group. The round follows a $9 million Series A in March 2022 and a $2 million seed round in 2020. The new money will be used for recruitment and expansion into Europe, Asia-Pacific and the U.S.
+
+In a statement, Deborah Pittet, senior principal at Forestay Capital, said, “Neural Concept has pioneered 3D Deep Learning — the leading-edge of AI — and demonstrated phenomenal traction and results with customers in various industries around the world.”

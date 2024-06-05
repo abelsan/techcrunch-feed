@@ -1,0 +1,30 @@
+Article Title: GetWhy, a market research AI platform that extracts insights from video interviews, raises $34.5M
+Article Content: GetWhy, a consumer research tech company that helps businesses carry out market studies and extract insights from video-based interviews using AI, has raised $34.5 million in a Series A round of funding from California-based VC firm, PeakSpan Capital.
+
+The substantial Series A highlights investors’ fervor to back the next big thing in AI, particularly companies that already have traction with big-name customers. In the case of GetWhy, the Danish company lays claim to a host of notable clients including Nestlé, McDonald’s, Nike and L’Oréal.
+
+GetWhy’s platform lets customers explain what they want to do — for instance, get an initial reaction to a new campaign concept — and the startup’s AI agent will compile a market study template based on the query.
+
+The customer can then upload the materials they want tested, such as visuals or slogans, and then they can set about recruiting respondents from their target market. GetWhy provides a link the customer can share with their own customers or target audience, or it can do this on a managed basis. The startup says it can complete this work within 24 hours.
+
+“Our platform is integrated into global panels with consumers, and we have a specialist recruitment team to ensure fast recruitment,” GetWhy’s chief marketing officer, Jonas Nielsen, told TechCrunch over email. “We conduct the unmoderated interviews online via video, capturing consumer interviews from their desktop or mobile.”
+
+GetWhy’s big selling point is Bloom, an AI platform that analyzes video responses to questions and presents these as qualitative insights. The company says Bloom’s generative AI model is trained on hundreds of thousands of interview sessions.
+
+“The AI technology kicks in when, for example, 10 consumers have been interviewed,” Nielsen continued. “It is trained to do what a human researcher normally would do: Go through all the videos and find relevant quotes to the business questions in the qualitative study.”
+
+In a nutshell: The AI goes through the videos, extracts quotes, and then tries to aggregate insights by spotting patterns.
+
+“This process would normally take a researcher days and weeks. The AI is trained to do the analysis in less than 25 minutes,” Nielsen added.
+
+AI is intersecting with just about every facet of society, so it’s little surprise that an industry renowned for slow, painstaking processes is starting to embrace tools that expedite matters. Just a few weeks back, TechCrunch reported on a fledgling startup called Fairgen that has developed a platform to boost survey results using synthetic data and AI-generated responses.
+
+GetWhy was initially founded in Denmark in 2011 as UserTribe, and operated as a consultancy under a “time and material” business model — consumer companies would pay the company to carry out user research and testing.
+
+In 2017, the company’s founder and CEO, Jonas Alexandersson, brought in Casper Henningsen as chief commercial officer, who stepped into the CEO role the following year. Interestingly, Henningsen was formerly a football (soccer) player who plied his trade at various clubs across the Danish professional football space before moving into the commercial world via a couple of marketing and branding agency roles, which ultimately led him to UserTribe in 2017.
+
+Although Henningsen joined the company six years after it was founded, he is officially classed as a co-founder given that he changed UserTribe from a consultancy to a technology company, with AI taking center stage. After spending a spell as Sonar, the company changed its name to GetWhy in January due to a brand clash with another company.
+
+PeakSpan is the sole investor in GetWhy’s Series A, which is its first major round of institutional funding, but the company has previously raised around $30 million across various rounds, constituting a mix of equity (roughly 75%) and debt. Henningsen said the company’s previous funding came from “leading business angels” from across Scandinavia, alongside bodies including Denmark’s AL Bank and the Danish Growth Fund.
+
+“This brings the company’s total funding to $64.5 million — last Thursday evening [May 30], this Series A round was finalized,” Henningsen confirmed to TechCrunch over email.

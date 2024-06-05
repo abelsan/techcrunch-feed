@@ -1,0 +1,30 @@
+Article Title: What to expect from WWDC 2024: iOS 18, macOS 15 and so much AI
+Article Content: Apple’s annual World Wide Developer Conference kicks off on Monday at 10 a.m. PT/1 p.m. ET with the standard Tim Cook keynote. Whereas last year’s WWDC will be remembered as the event that finally introduced the world to the Vision Pro, the company is hoping to make next week’s event even more memorable as it finally spells out its generative AI plans.
+
+You’ll find information on how to stream the event live over here.
+
+WWDC’s opening salvo is different from other Apple keynotes, in that it’s the kickoff to a weeklong online and in-person event, running from June 10 to 14. While the company began opening things up more to the public during the pandemic, it’s important to remember the reason for the season: Much like Google I/O and Microsoft Build before it, the true purpose for the event is showcasing the latest updates for developers.
+
+While the last few years have showcased key hardware updates, owing to developments in Mac silicon and last year’s headset preview, WWDC is not a hardware event. In fact, the latest buzzing from the rumor mill points to a keynote presentation that’s very light on the hardware. Bloomberg is now even suggesting the event will be entirely devoid of new hardware.
+
+Keep in mind, Apple made a unusual choice of hosting a standalone virtual iPad event almost exactly a month prior to WWDC. The May 7 program debuted new versions of the iPad Pro and iPad Air. Much to the chagrin of many, AI didn’t play a major role in the event. After all of the fanfare around models like GPT and the big fuss Google has been making around Gemini integration in Android, Apple needs to come out swinging next week.
+
+That said, the new M4 chip did just debut on the iPad. MacBooks featuring the chip and its more powerful siblings can’t be too far away. Nor can the upcoming iPhone A18 chip, which the company will almost certainly claim is “the most advanced smartphone chip for AI” or something equivalent.
+
+Concern that Apple has fallen behind on gen AI has been enough to prompt Cook to promise big things on shareholder calls. In fact, the CEO made the decision to comment on future plans. In May, he promised that the company would “break new ground” on generative AI, adding, “We believe it will unlock transformative opportunities for our users.”
+
+Will Apple’s bid to break new ground be, in fact, groundbreaking? I anticipate it will be big on promises for developers, highlighting how generative AI will affect future versions of the company’s various operating systems — with a focus on iOS. Rumors around Apple’s approach to the world of large language models have been swirling around for some time now.
+
+Early reports suggested the company was meeting with Google about potential Gemini integration for iOS. That would be a huge win for Google, with the model playing a key role in two operating systems that account for a combined 96% of the global mobile operating system market. More recent reporting, however, has pointed to a partnership with OpenAI. Much like I/O before it, I would anticipate being sick and tired all the AI talk by the time the company is finished.
+
+Following the collapse of its electric car project, Apple reportedly shuffled a number of employees into its internal generative AI efforts. Given how fresh that news is, it’s safe to say that the company is still trailing the competition there. With that in mind, I anticipate that a lot of the AI-related news will come off the back of its OpenAI deal.
+
+Along with that partnership, expect iOS 18 to be the centerpiece of the event. There’s a lot riding on what is reportedly “one of the biggest iOS updates — if not the biggest — in the company’s history.” It’s going to be so big, in fact, that Sarah took time out of her busy schedule to collate the rumored updates. I don’t want to repeat her work, so I’m going to distill some of the rumors here. Go read her story for more.
+
+Apple announced that RCS (Rich Communication Services) is coming to Messages, to make Android users feel slightly less bad — still green bubble, mind. Reports suggested it would arrive last fall, but that ship has obviously sailed. This coming fall, on the other hand, seems like a fine bet, especially with the whole DOJ thing looming.
+
+Every time Tim Cook says “AI,” an investor gets their wings. While iOS is undoubtedly going to be the big operating system focus, Apple’s still got news in the works for desktop. We’ll be getting the official name for macOS 15. What’s the most AI California place name? Alameda? Alcatraz? RodAI Drive?
+
+A lot of the iOS updates should also make their way to macOS, including those in Siri, Notes and Safari. Apple’s office apps are said to be getting a gen AI boost, as well. That includes assistance in Pages, Keynote and developer environment app Xcode.
+
+System Settings will be continuing Apple’s longstanding project of turning macOS into iOS, with a design refresh. Apple should be overhauling some key accessibility features, as well. And don’t forget the most exciting update of all, some big design changes to Calculator — the app most of use but somehow never manage to think about.

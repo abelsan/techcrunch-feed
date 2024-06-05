@@ -1,0 +1,34 @@
+Article Title: People are using AI music generators to create hateful songs
+Article Content: Malicious actors are abusing generative AI music tools to create homophobic, racist, and propagandistic songs — and publishing guides instructing others how to do so as well.
+
+According to ActiveFence, a service for managing trust and safety operations on online platforms, there’s been a spike in chatter within “hate speech-related” communities since March about ways to misuse AI music creation tools to write offensive songs targeting minority groups. The AI-generated songs being shared in these forums and discussion boards aim to incite hatred toward ethnic, gender, racial, and religious cohorts, say ActiveFence researchers in a report, while celebrating acts of martyrdom, self-harm, and terrorism.
+
+Hateful and harmful songs are hardly a new phenomenon. But the fear is that, with the advent of easy-to-use, free music-generating tools, they’ll be made at scale by people who previously didn’t have the means or know-how — just as image, voice, video and text generators have hastened the spread of misinformation, disinformation, and hate speech.
+
+“These are trends that are intensifying as more users are learning how to generate these songs and share them with others,” an ActiveFence spokesperson told TechCrunch. “Threat actors are quickly identifying specific vulnerabilities to abuse these platforms in different ways and generate malicious content.”
+
+Generative AI music tools like Udio and Suno let users add custom lyrics to generated songs. Safeguards on the platforms filter out common slurs and pejoratives, but users have figured out workarounds, according to ActiveFence. 
+
+In one example cited in the report, users in white supremacist forums shared phonetic spellings of minorities and offensive terms, such as “jooz” instead of “Jews” and “say tan” instead of “Satan,” that they used to bypass content filters. Some users suggested altering spacings and spellings when referring to acts of violence, like replacing “my rape” with “mire ape.”
+
+TechCrunch tested several of these workarounds on Udio and Suno, two of the more popular tools for creating and sharing AI-generated music. Suno let all of them through, while Udio blocked some — but not all — of the offensive homophones.  
+
+Reached via email, a Udio spokesperson told TechCrunch that the company prohibits the use of its platform for hate speech. Suno didn’t respond to our request for comment. 
+
+In the communities it canvassed, ActiveFence found links to AI-generated songs parroting conspiracy theories about Jewish people and advocating for their mass murder; songs containing slogans associated with the terrorist groups ISIS and al-Qaida; and songs glorifying sexual violence against women.
+
+ActiveFence makes the case that songs — as opposed to, say, text — carry emotional heft that make them an especially potent force for hate groups and political warfare. The firm points to Rock Against Communism, the series of white power rock concerts in the U.K. in the late ’70s and early ’80s that spawned subgenres of antisemitic and racist “hatecore” music.
+
+“AI makes harmful content more appealing — think of someone preaching a harmful narrative about a certain population and then imagine someone creating a rhyming song that makes it easy for everyone to sing and remember,” the ActiveFence spokesperson said. “They reinforce group solidarity, indoctrinate peripheral group members and are also used to shock and offend unaffiliated internet users.”
+
+ActiveFence is calling on music generation platforms to implement prevention tools and conduct more extensive safety evaluations. “Red teaming might potentially surface some of these vulnerabilities and can be done by simulating the behavior of threat actors,” said the spokesperson. “Better moderation of the input and output might also be useful in this case, as it will allow the platforms to block content before it is being shared with the user.”
+
+But fixes could prove fleeting as users uncover new moderation-defeating methods. Some of the AI-generated terrorist propaganda songs ActiveFence identified, for example, were created using Arabic-language euphemisms and transliterations — euphemisms the music generators didn’t detect, presumably because their filters aren’t strong in Arabic.
+
+AI-generated hateful music is poised to spread far and wide if it follows in the footsteps of other AI-generated media. Wired documented earlier this year how an AI-manipulated clip of Adolf Hitler racked up more than 15 million views on X after being shared by a far-right conspiracy influencer.
+
+Among other experts, a UN advisory body has expressed concerns that racist, antisemitic, Islamophobic and xenophobic content could be supercharged by generative AI.
+
+“Generative AI services enable users who lack resources or creative and technical skills to build engaging content and spread ideas that can compete for attention in the global market of ideas,” the spokesperson said. “And threat actors, having discovered the creative potential offered by these new services, are working to bypass moderation and avoid being detected — and they have been successful.”
+
+We’re launching an AI newsletter! Sign up here to start receiving it in your inboxes on June 5.

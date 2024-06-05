@@ -1,0 +1,70 @@
+Article Title: After raising $100M, AI fintech LoanSnap is being sued, fined, evicted
+Article Content: AI mortgage startup LoanSnap is facing an avalanche of lawsuits from creditors and has been evicted from its headquarters in Southern California, leaving employees worried about the company’s future, TechCrunch has learned.
+
+LoanSnap, founded by serial entrepreneurs Karl Jacob (pictured above) and Allan Carroll, has raised around $100 million in funding since its 2017 seed round, $90 million of which was raised between 2021 and 2023, according to PitchBook. Investors include Richard Branson’s Virgin Group, the Chainsmokers’ Mantis Ventures, Baseline Ventures, and Reid Hoffman, LoanSnap says. The startup also took on around $12 million in debt, PitchBook estimates.
+
+Despite the capital it raised, since December 2022, LoanSnap has been sued by at least seven creditors, including Wells Fargo, who collectively alleged the startup owes them more than $2 million. LoanSnap has also been fined by state and federal agencies and nearly lost its license to operate in Connecticut, according to legal documents obtained by TechCrunch.  
+
+While LoanSnap has not yet shut down, according to two employees, the vibe inside the company is harrowing as workers wait for clarity on the company’s future. Between December 2023 and at least January 2024, the company missed payroll and headcount has dwindled. At its high point, LoanSnap employed more than 100. After layoffs and attrition, that number has diminished to less than 50, according to a source. 
+
+“The current state is a result of terrible leadership, overspending on futility, and institutional investors falling for the charming facade that Karl can show,” one former employee, who asked to remain anonymous due to fear of retaliation, told TechCrunch. The person’s identity is known to TechCrunch.
+
+Given the scope of the company’s problems beginning in 2021, the situation begs the question of why investors poured money into the company as late as 2023 — and what will happen next. 
+
+Reid Hoffman was not available for comment, and his office declined comment. (LoanSnap is not a Greylock Partners investment, the VC firm confirmed.) Virgin Group, Mantis VC, and Baseline Ventures also did not respond to requests for comment.
+
+Jacob and Carroll, who are LoanSnap’s CEO and CTO, respectively, did not respond to multiple requests for comments over several days, via email and texts. LoanSnap’s press line deferred to the CEO in the matter and declined to offer comment.
+
+In 2021, LoanSnap originated nearly 1,300 loans for a total value of almost $500 million, according to data filed with federal regulators — both records for the startup. By 2023, LoanSnap reported to the Consumer Financial Protection Bureau (CFPB) that it had originated only 122 loans for the year (though the data may not be final.) 
+
+Despite the record number of loans, trouble was already brewing in 2021. Legal documents show that in May 2021, the same month LoanSnap announced its $30 million Series B with investors like Hoffman, the U.S. Department of Housing and Urban Development Mortgagee Review Board entered into a settlement agreement with the company. While LoanSnap did not admit to wrongdoing, the agency alleged that it violated Federal Housing Administration (FHA) requirements for failing to notify the FHA of an operating loss that exceeded 20% of its fiscal 2019 quarter-end net worth. It agreed to pay a $25,000 fine. 
+
+Since 2021, at least three complaints have been filed against LoanSnap with the Better Business Bureau, and the company now has an F rating. Those complaints allege that the startup charged non-refundable fees and then failed to close on loans in a timely manner or failed to pay taxes from an escrow account. Additionally, in four complaints filed to the Consumer Financial Protection Bureau and reviewed by TechCrunch, consumers accused LoanSnap of selling a paid-in-full loan to another lender instead of properly closing it out, misleading consumers about mortgage approvals and shorting escrow accounts. 
+
+Between December 2022 and May 2024, at least seven creditors sued LoanSnap, and the company went through at least three CFOs, a source says. Near the end of 2022, Baseline Ventures’ Steve Anderson stepped down from the board, according to someone familiar with the matter. 
+
+Four of the lawsuits were from vendors claiming that the startup had fallen behind or completely stopped making contractual payments for services. LoanSnap has not yet filed a formal response with the courts for any of these suits, according to public records. 
+
+For instance, Wells Fargo filed a lawsuit in August 2023 for $431,000, alleging a loan it bought from LoanSnap violated the bank’s income-to-debt-ratio policies. Because LoanSnap defaulted on the lawsuit (meaning it failed to respond in a timely manner), the judge ordered LoanSnap to pay.
+
+In mid-2023, LoanSnap was facing a California Department of Financial Protection and Innovation investigation stemming from a complaint filed against it, and the company was fending off threatened litigation from at least one investor, according to records viewed by TechCrunch. (A spokesperson for the California Department of Financial Protection said it “does not comment on investigations even to confirm or deny their existence.”)
+
+Then, 2024 brought more legal troubles. In January, Connecticut’s Department of Banking alleged the company was partaking in “systemic unlicensed mortgage loan” activity by employing unlicensed people. One employee told TechCrunch that the company was eager to hire those without much mortgage experience, with the idea of training them so they could one day get licenses.
+
+Connecticut also claimed that LoanSnap violated the Fair Credit Reporting Act, the SAFE Act, and the Fair Lending Act, among other state statutes, and threatened to revoke its license. Ultimately, LoanSnap paid a $75,000 fine without admitting fault and promised not to use unlicensed people for mortgage loan officer work in the state.
+
+“It’s a really big deal for them to threaten that,” said Andrew Narod, a partner in the Banking and Financial Services Practice Group at the law firm Bradley. But Narod noted that the settlement wasn’t “particularly onerous,” adding, “Pay $75,000 and stop doing illegal things, which, candidly, really should have been the business model from the start.” 
+
+In February, LoanSnap was sued by its Costa Mesa landlord, who alleged the company stopped paying rent and owed nearly $405,000. When LoanSnap didn’t answer the suit, the judge ruled that it defaulted on the complaint, and the landlord was given the OK to evict LoanSnap in mid-May, according to court filings. (LoanSnap had a second office in San Francisco, though it is unclear if that office is still in use.)
+
+In May, a new suit was filed. A tax company that loaned LoanSnap $5 million alleges that LoanSnap stopped making payments and owes more than $900,000. 
+
+Many of these lawsuits were filed in late 2023. But even before then, internal problems were clear: LoanSnap’s finances had seen trouble, according to the FHA settlement; it had gone through layoffs; complaints had been filed to the BBB and the CFPB; and a known Silicon VC had, internal sources say, resigned from the board. 
+
+Still, in July 2023, LoanSnap raised another $19 million in venture funding from new investor Forté Ventures, according to Pitchbook. (Forté Ventures did not respond to a request for comment.) 
+
+One employee attributes the company’s venture fundraising success to CEO Jacob. 
+
+Jacob has the kind of résumé that attracts Valley VCs, having founded and exited multiple startups since 1997, when he sold a company called Dimension X to Microsoft. His LoanSnap bio proudly says he’s “raised 23 rounds of financing” and “generated hundreds of millions of dollars in investor returns.” His co-founder Carroll has also had repeat successes. He’s a former Microsoft research engineer who launched three previous startups and sold two of them.
+
+But many questions remain, such as where all the millions that LoanSnap raised went. The employees we spoke to don’t have answers. When times were good in 2021, and headcount was at its highest, Jacob engaged in expenditures like authorizing an expensive open-bar holiday party for employees in 2021 at a beachside resort. One year, he gifted employees with Meta Portals and hosted a party in Denver for the Web3 ETH event.
+
+The company was also operating two offices, both in pricey rental areas. The rent in Costa Mesa (from which it was evicted) was around $55,000 a month, and the office in San Francisco charged at least $30,000 a month rent, according to court documents obtained by TechCrunch.
+
+Employees were told that the multimillion-dollar Newport Beach town house where Jacob and Carroll stayed when visiting the Costa Mesa office was also owned by the company. LoanSnap hosted its 2022 holiday party there.
+
+Despite all of the now-obvious problems, LoanSnap is still earning public accolades from investors, the media, and industry players.
+
+In mid-May, Newsweek named LoanSnap among its list of America’s Best Online Lenders, and one of its VCs, True Ventures, applauded the startup on LinkedIn for the inclusion. That same month, LoanSnap and Visa announced that LoanSnap had joined Visa’s fintech program, which helps startups use its payment programs.
+
+And just last month, LoanSnap announced it entered into Nvidia’s free Inception program, which gives benefits to AI startups. One former employee called these recent announcements odd, as the company appears to be trying to either pivot or move on as if nothing is wrong. 
+
+“It’s really not hard to find numerous lawsuits and complaints, some of them from governmental agencies, with a quick Google search,” the employee said, wondering how Nvidia and Visa let LoanSnap into the programs. 
+
+True Ventures and Visa did not respond to our request for comment. Nvidia declined to comment. 
+
+Meanwhile, employees who have not yet quit feel stuck, unsure if some version of the company will arise from the ashes. 
+
+“There’s no communication, no accountability,” the employee said. “That makes people nervous.”
+
+This article was updated to clarify where numerical data was sourced from. 

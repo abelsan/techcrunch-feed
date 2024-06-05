@@ -1,0 +1,20 @@
+Article Title: Cloudera acquires Verta to bring some AI chops to its data platform
+Article Content: Cloudera, the once high-flying Hadoop startup, raised $1 billion and went public in 2018 before being acquired by private equity for $5.3 billion in 2021. Today, the company announced that it is acquiring Verta, an AI startup that helps customers manage machine learning models, including large language models (LLMs) used in generative AI.
+
+Cloudera, which launched a SaaS data lakehouse the year after it was acquired, needed some AI chops to stay relevant in today’s market. The company’s CEO, Charles Sansbury, certainly recognized that.
+
+“The future of data management is AI; they go hand-in-hand. Cloudera is acquiring Verta’s Operational AI platform to strengthen our team and accelerate our operational AI capabilities,” he said in a statement.
+
+As companies are moving more toward LLMs, Verta evolved from a task-based model management platform to one geared toward managing today’s large language models, acting as a control center for the models.
+
+At a time when it’s hard to get quality AI talent, this acquisition also gives Cloudera some top-notch people to help run and expand their AI tooling. That includes co-founders CEO Manasi Vartak, who cut her teeth at MIT CSAIL, and CTO Conrado Miranda, who was once the machine learning lead at Twitter.
+
+Verta was founded in 2018 and raised almost $16 million, per PitchBook. That included a $10 million Series A in 2020. Vartak actually created the open source project ModelDB database as a way to track versions of machine models while she was still in graduate school. She would later expand that idea into Verta.
+
+Cloudera was born as a Hadoop startup back in 2008, when companies were beginning to think about how to process large amounts of data, and Hadoop, an open source project originally developed at Yahoo in 2005, was once the cutting-edge way to do it. The problem was that by the time the company went public, there were simpler and more cost-effective ways to process that data and Hadoop was losing steam.
+
+At the same time, companies were shifting much of their data workloads to the cloud, whether the big three cloud vendors — Amazon, Microsoft or Google — or startups like Snowflake and Databricks. In spite of the name, for much of its existence, Cloudera’s solutions were actually on prem.
+
+The move to build a SaaS data lakehouse in 2021 was in part an attempt to compete with their cloud-native competitors. Since then, Databricks and Snowflake have added AI capabilities both organically and via acquisition.
+
+Today’s move is really about keeping up with the Joneses.
